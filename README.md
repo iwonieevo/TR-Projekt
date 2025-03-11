@@ -1,2 +1,2 @@
-# technika_regulacji
-Projekt z techniki regulacji
+# TR-Projekt
+Projekty zrobione w ramach kursu Technika regulacji
